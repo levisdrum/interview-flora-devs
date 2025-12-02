@@ -153,28 +153,18 @@ Neste momento, o foco principal é criar um **componente Button** robusto e reut
 
 ### Passo 1: Criar o projeto base
 
-Escolha **uma** das tecnologias abaixo e crie o projeto:
+Entenda com no pair pramming qual será seu foco e use os templates sugeridos no teste.
 
 **Opção 1 - React Web (Vite + JavaScript):**
-```bash
-npm create vite@latest react-web -- --template react
-cd react-web
-npm install
-```
+
+ou
 
 **Opção 2 - React Native (Expo + Metro):**
-```bash
-npx create-expo-app@latest react-native-mobile --template blank
-cd react-native-mobile
-npm install
-```
+
+ou
 
 **Opção 3 - Flutter (Dart):**
-```bash
-flutter create flutter_mobile
-cd flutter_mobile
-flutter pub get
-```
+
 
 ### Passo 2: Rodar o projeto
 
